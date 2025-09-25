@@ -1,6 +1,6 @@
 <# ================================
  Teams RAG Bot – Deploy Script
- Author: Gaurish (AI-102)
+ Author: GXC-Dev (AI-102)
  Version: v1.0
 ================================ #>
 
