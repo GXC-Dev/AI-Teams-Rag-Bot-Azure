@@ -1,0 +1,2 @@
+{"q":"What ID do we need to verify a customer?","must_include":["Sources:"],"must_not_include":["I think"]}
+{"q":"What is the refund window for Product X?","must_include":["days"],"must_not_include":["unsure"]}

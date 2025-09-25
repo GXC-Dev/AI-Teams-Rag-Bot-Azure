@@ -1,0 +1,9 @@
+
+### Health
+GET http://localhost:8000/healthz
+
+### Chat
+POST http://localhost:8000/api/chat
+Content-Type: application/json
+
+{"question":"How do I reset a password?"}

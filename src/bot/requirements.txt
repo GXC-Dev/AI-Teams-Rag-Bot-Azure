@@ -1,0 +1,5 @@
+botbuilder-core
+botbuilder-schema
+aiohttp
+requests
+python-dotenv
