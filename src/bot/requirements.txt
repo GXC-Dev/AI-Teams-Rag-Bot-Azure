@@ -1,2 +1,0 @@
-botbuilder-core
-botbuilder-schema

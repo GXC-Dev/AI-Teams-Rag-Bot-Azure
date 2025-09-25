@@ -1,1 +1,0 @@
-# search_client.py placeholder
