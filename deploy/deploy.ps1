@@ -1,7 +1,7 @@
 <# ================================
- Teams RAG Bot – Deploy Script
- Author: GXC-Dev (AI-102)
- Version: v1.0
+ Teams RAG Bot
+ Author: GXC-Dev
+ Version: v2.6
 ================================ #>
 
 param(
